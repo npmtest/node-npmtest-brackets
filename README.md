@@ -1,4 +1,7 @@
-# test coverage for  [brackets (v0.5.8)](https://github.com/rabchev/brackets-server)  [![npm package](https://img.shields.io/npm/v/npmtest-brackets.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-brackets) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-brackets.svg)](https://travis-ci.org/npmtest/node-npmtest-brackets)
+# npmtest-brackets
+
+#### basic test-coverage for  [brackets (v0.5.8)](https://github.com/rabchev/brackets-server)  [![npm package](https://img.shields.io/npm/v/npmtest-brackets.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-brackets) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-brackets.svg)](https://travis-ci.org/npmtest/node-npmtest-brackets)
+
 #### Brackets Server is a server for providing hosted version of the popular code editor Brackets.
 
 [![NPM](https://nodei.co/npm/brackets.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/brackets)
